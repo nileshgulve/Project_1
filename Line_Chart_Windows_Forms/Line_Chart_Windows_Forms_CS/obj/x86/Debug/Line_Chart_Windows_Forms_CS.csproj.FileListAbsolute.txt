@@ -1,0 +1,39 @@
+D:\Dropbox\Samples\Windows\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\bin\Debug\Line_Chart_Windows_Forms_CS.exe
+D:\Dropbox\Samples\Windows\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\bin\Debug\Line_Chart_Windows_Forms_CS.pdb
+D:\Dropbox\Samples\Windows\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\Pie_Chart_Windows_Forms_CS.Form1.resources
+D:\Dropbox\Samples\Windows\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\Line_Chart_Windows_Forms_CS.Properties.Resources.resources
+D:\Dropbox\Samples\Windows\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\Line_Chart_Windows_Forms_CS.csproj.GenerateResource.Cache
+D:\Dropbox\Samples\Windows\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\Line_Chart_Windows_Forms_CS.exe
+D:\Dropbox\Samples\Windows\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\Line_Chart_Windows_Forms_CS.pdb
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\Line_Chart_Windows_Forms_CS.csprojResolveAssemblyReference.cache
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\ECG.Form1.resources
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\ECG.HowTo.resources
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\ECG.LivePage.resources
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\ECG.Login.resources
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\ECG.Main.resources
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\ECG.MainForm.resources
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\ECG.Properties.Resources.resources
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\Line_Chart_Windows_Forms_CS.csproj.GenerateResource.Cache
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\bin\Debug\Line_Chart_Windows_Forms_CS.exe
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\bin\Debug\Line_Chart_Windows_Forms_CS.pdb
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\Line_Chart_Windows_Forms_CS.exe
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\Line_Chart_Windows_Forms_CS.pdb
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\bin\Debug\ECG.exe
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\bin\Debug\ECGConversion.dll
+D:\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\bin\Debug\ECG.pdb
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\Line_Chart_Windows_Forms_CS.exe
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\Line_Chart_Windows_Forms_CS.pdb
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\bin\Debug\Line_Chart_Windows_Forms_CS.exe
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\bin\Debug\Line_Chart_Windows_Forms_CS.pdb
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\bin\Debug\ECG.exe
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\bin\Debug\ECGConversion.dll
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\bin\Debug\ECG.pdb
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\Line_Chart_Windows_Forms_CS.csprojResolveAssemblyReference.cache
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\ECG.Form1.resources
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\ECG.HowTo.resources
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\ECG.LivePage.resources
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\ECG.Login.resources
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\ECG.Main.resources
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\ECG.MainForm.resources
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\ECG.Properties.Resources.resources
+C:\Users\SAI\Desktop\Final project\ECGGraph\Line_Chart_Windows_Forms\Line_Chart_Windows_Forms_CS\obj\x86\Debug\Line_Chart_Windows_Forms_CS.csproj.GenerateResource.Cache

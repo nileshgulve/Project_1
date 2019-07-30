@@ -1,0 +1,9 @@
+D:\Dropbox\Samples\Windows\Bar_Chart_Windows_Forms\Bar_Chart_Windows_Forms_VB\obj\x86\Debug\Bar_Chart_Windows_Forms.vbproj.GenerateResource.Cache
+D:\Dropbox\Samples\Windows\Bar_Chart_Windows_Forms\Bar_Chart_Windows_Forms_VB\bin\Debug\Bar_Chart_Windows_Forms_CS.exe
+D:\Dropbox\Samples\Windows\Bar_Chart_Windows_Forms\Bar_Chart_Windows_Forms_VB\bin\Debug\Bar_Chart_Windows_Forms_CS.pdb
+D:\Dropbox\Samples\Windows\Bar_Chart_Windows_Forms\Bar_Chart_Windows_Forms_VB\bin\Debug\Bar_Chart_Windows_Forms_CS.xml
+D:\Dropbox\Samples\Windows\Bar_Chart_Windows_Forms\Bar_Chart_Windows_Forms_VB\obj\x86\Debug\Bar_Chart_Windows_Forms_CS.Form1.resources
+D:\Dropbox\Samples\Windows\Bar_Chart_Windows_Forms\Bar_Chart_Windows_Forms_VB\obj\x86\Debug\Bar_Chart_Windows_Forms_CS.Resources.resources
+D:\Dropbox\Samples\Windows\Bar_Chart_Windows_Forms\Bar_Chart_Windows_Forms_VB\obj\x86\Debug\Bar_Chart_Windows_Forms_CS.exe
+D:\Dropbox\Samples\Windows\Bar_Chart_Windows_Forms\Bar_Chart_Windows_Forms_VB\obj\x86\Debug\Bar_Chart_Windows_Forms_CS.xml
+D:\Dropbox\Samples\Windows\Bar_Chart_Windows_Forms\Bar_Chart_Windows_Forms_VB\obj\x86\Debug\Bar_Chart_Windows_Forms_CS.pdb

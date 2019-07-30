@@ -1,0 +1,7 @@
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_CS\bin\Debug\Column_Chart_Windows_Forms_CS.exe
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_CS\bin\Debug\Column_Chart_Windows_Forms_CS.pdb
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_CS\obj\x86\Debug\Pie_Chart_Windows_Forms_CS.Form1.resources
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_CS\obj\x86\Debug\Column_Chart_Windows_Forms_CS.Properties.Resources.resources
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_CS\obj\x86\Debug\Column_Chart_Windows_Forms_CS.csproj.GenerateResource.Cache
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_CS\obj\x86\Debug\Column_Chart_Windows_Forms_CS.exe
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_CS\obj\x86\Debug\Column_Chart_Windows_Forms_CS.pdb

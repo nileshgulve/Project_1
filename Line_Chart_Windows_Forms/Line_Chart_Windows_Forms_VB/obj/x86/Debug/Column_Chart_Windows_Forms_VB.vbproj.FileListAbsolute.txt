@@ -1,0 +1,9 @@
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_VB\bin\Debug\Column_Chart_Windows_Forms_VB.exe
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_VB\bin\Debug\Column_Chart_Windows_Forms_VB.pdb
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_VB\bin\Debug\Column_Chart_Windows_Forms_VB.xml
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_VB\obj\x86\Debug\Column_Chart_Windows_Forms_VB.Form1.resources
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_VB\obj\x86\Debug\Column_Chart_Windows_Forms_VB.Resources.resources
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_VB\obj\x86\Debug\Column_Chart_Windows_Forms_VB.vbproj.GenerateResource.Cache
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_VB\obj\x86\Debug\Column_Chart_Windows_Forms_VB.exe
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_VB\obj\x86\Debug\Column_Chart_Windows_Forms_VB.xml
+D:\Dropbox\Samples\Windows\Column_Chart_Windows_Forms\Column_Chart_Windows_Forms_VB\obj\x86\Debug\Column_Chart_Windows_Forms_VB.pdb
